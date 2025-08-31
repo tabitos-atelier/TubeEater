@@ -41,9 +41,9 @@ YouTubeに公開されたコンテンツには著作権があります。この�
 
 このアプリケーションが、どのような経緯で生まれ、そして幻となったのか。その開発過程は、ブログに詳しく記されています。
 
-![TubeEater Screenshot](https://github.com/sabakunotabito/tubeeater/blob/images/TubeEater01.png)
+![TubeEater Screenshot](https://github.com/tabitos-atelier/tubeeater/blob/images/TubeEater01.png)
 
-*   **[砂漠の旅人 - TubeEater開発譚](https://sabakunotabito.hatenablog.com/archive/category/TubeEater)**
+*   **[たびとの旅路 - TubeEater開発譚](https://tabitos-voyage.com/search?q=TubeEater)**
 
 ## 謝辞 (Acknowledgements)
 
